@@ -1,8 +1,10 @@
 # Setting up AWS infrastructure using Terraform
 
-## Description
-
-Creating VPCs, Subnet, Route tables and Internet Gateway
+## AWS Networking Infrastructure setup
+- Create VPCs
+- Create Public & Private Subnet in different availablility zones
+- Create Public & Private Route tables and attach respective subnets
+- Create Internet Gateway ad attach to VPC
 
 ## :package: Prerequisites
 
