@@ -1,5 +1,9 @@
 # Setting up AWS infrastructure using Terraform
 
+## Description
+
+Creating VPCs, Subnet, Route tables and Internet Gateway
+
 ## :package: Prerequisites
 
 Install:
